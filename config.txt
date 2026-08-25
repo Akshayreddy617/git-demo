@@ -1,1 +1,1 @@
-environment=login
+environment=development
