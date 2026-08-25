@@ -4,7 +4,5 @@
 
 
 
-This feature handles document processing.
-
-
+This API provides endpoints for uploading and processing documents.
 
