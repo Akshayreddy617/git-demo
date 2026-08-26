@@ -1,4 +1,7 @@
-print("Version 2")
-print("New feature added in DEV")
 def get_documents():
-    return ["document1.pdf", "document2.pdf"]
+    documents = []
+    
+    if not documents:
+        return "No documents found"
+
+    return documents
